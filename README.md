@@ -107,7 +107,7 @@ Passionate about building real-world production ML systems with a research minds
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=react-dark" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=tokyo-night" width="98%" />
 </p>
 
 <p align="center">
@@ -148,18 +148,6 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
-
----
 
 ## 📫 Let's Connect
 
