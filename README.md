@@ -11,18 +11,26 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:20px;box-shadow: 0 0 30px #9a70ff; margin-top:15px;">
 
 <!-- Social badges in purple gradient -->
-<p>
-  <a href="mailto:yashwanthbalaji.2408@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-9a70ff?&style=for-the-badge&logo=gmail&logoColor=fff" />
-  </a>
+<p align="center">
   <a href="https://linkedin.com/in/yashwanthbalaji">
-    <img src="https://img.shields.io/badge/LinkedIn-6e3dfd?&style=for-the-badge&logo=linkedin&logoColor=fff" />
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" />
   </a>
-  <a href="https://github.com/Yashwanth2408">
-    <img src="https://img.shields.io/badge/Github-4d1eff?&style=for-the-badge&logo=github&logoColor=fff" />
+  <a href="https://www.instagram.com/yash_.ig/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9b7eff&style=for-the-badge" />
+  <a href="mailto:yashwanthbalaji.2408@gmail.com">
+    <img height="50" src="https://img.icons8.com/ios-filled/50/9331fd/gmail-new.png" />
+  </a>
+  <a href="https://yashwanthbalaji.medium.com/">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png" />
+  </a>
+  <a href="https://dev.to/yash2408">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9331fd&style=flat-square" />
 </p>
+
+
 
 ---
 ##  Current Focus
