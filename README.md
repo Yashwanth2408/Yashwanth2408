@@ -145,18 +145,6 @@ Passionate about building real-world production ML systems with a research minds
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
-
 
 ---
 
