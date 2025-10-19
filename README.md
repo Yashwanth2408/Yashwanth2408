@@ -25,7 +25,7 @@
 </p>
 
 ---
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center" style="width:100%;">
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I craft end-to-end intelligent systems, specializing in NLP, Speech, and Graph ML.  
 Passionate about building real-world production ML systems with a research mindset and pixel-perfect diligence.
@@ -91,7 +91,7 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 <p align="center" style="margin-top:8px; margin-bottom:12px;">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,cpp,github,vscode,postgres,mysql,jupyter,aws" width="95%" />
@@ -99,7 +99,7 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-## 📈 Github Stats & Activity
+##  Github Stats & Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
@@ -116,7 +116,7 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
@@ -139,10 +139,22 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-## 📝 Daily Inspiration
+##  Daily Inspiration
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
