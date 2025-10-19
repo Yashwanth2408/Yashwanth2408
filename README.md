@@ -71,7 +71,7 @@ Passionate about research, innovation, and solving hard problems.
 
 ---
 
-## 💻 TECH ARSENAL
+## TECH ARSENAL
 
 ### Programming Languages
 
