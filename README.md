@@ -10,7 +10,9 @@
 <!-- Pixel-art style glowing profile picture -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:20px;box-shadow: 0 0 30px #9a70ff; margin-top:15px;">
 <b></b>
-<b></b>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 <!-- Social badges in purple gradient -->
 <p align="center">
   <a href="https://linkedin.com/in/yashwanthbalaji">
