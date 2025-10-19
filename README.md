@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Red/white wave background and pixel-branding (Press Start 2P, YASH) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&text=YASH&fontSize=58&fontColor=ff0000&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&fontSize=58&fontColor=ff0000&fontAlignY=40" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=950&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG;%3E+Production-Grade+ML+Solutions;%3E+Pixel+Art+Innovation)](https://git.io/typing-svg)
 
