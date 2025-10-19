@@ -109,19 +109,20 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-##  Github Stats & Activity
+## 📊 Github Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=6272a4&fire=bd93f9&currStreakLabel=fff&sideLabels=bd93f9&currStreakNum=fff&sideNums=fff&dates=6272a4" width="48%" />
+  <img src="https://img.shields.io/badge/Stars-0-9331fd?style=for-the-badge&logo=star&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Commits-67-6e3dfd?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PRs-0-23272f?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Issues-0-23272f?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Contributions-95-4f287b?style=for-the-badge&logo=addthis&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Longest_Streak-3-9331fd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grade-B--6e3dfd?style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=vogue" width="98%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=darkhub&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=react-dark&color=9331fd&area=true" width="99%" />
 </p>
 
 ---
