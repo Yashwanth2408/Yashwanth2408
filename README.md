@@ -13,10 +13,16 @@
 
 <!-- Social badges in purple gradient -->
 <p>
-  <a href="mailto:yashwanthbalaji.2408@gmail.com"><img src="https://img.shields.io/badge/GMAIL-19f7f5?style=for-the-badge&logo=gmail&logoColor=9331fd" /></a>
-  <a href="https://linkedin.com/in/yashwanthbalaji"><img src="https://img.shields.io/badge/LINKEDIN-9331fd?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="https://github.com/Yashwanth2408"><img src="https://img.shields.io/badge/GITHUB-14002b?style=for-the-badge&logo=github&logoColor=19f7f5" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=19f7f5&style=for-the-badge" />
+  <a href="mailto:yashwanthbalaji.2408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9a70ff?&style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://linkedin.com/in/yashwanthbalaji">
+    <img src="https://img.shields.io/badge/LinkedIn-6e3dfd?&style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://github.com/Yashwanth2408">
+    <img src="https://img.shields.io/badge/Github-4d1eff?&style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9b7eff&style=for-the-badge" />
 </p>
 
 
