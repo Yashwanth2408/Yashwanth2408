@@ -145,8 +145,6 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-##  Daily Inspiration
-
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
