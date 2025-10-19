@@ -27,51 +27,50 @@
 ---
 ## 🎯 Current Focus
 
-<div align="center" style="margin-top:14px;">
+<div align="center">
 
-<!-- Card 1 -->
-<span style="display:inline-block; width:115px; margin:0 10px;">
-  <div style="border:2.5px solid #ee6aff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/brain.png" width="48" style="margin-top:16px;"/>
+<!-- First Row: 3 Cards -->
+<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
+  <div style="border:2.5px solid #ee6aff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/brain.png" width="48"/>
   </div>
-  <div style="margin-top:10px; font-weight:bold; color:#ee6aff;">GNNs</div>
-  <div style="font-size:13px; color:#aaa;">Fraud, Graph ML</div>
+  <div style="margin-top:12px;font-weight:bold;color:#ee6aff;">GNNs</div>
+  <div style="font-size:13px;color:#aaa;">Fraud, Graph ML</div>
 </span>
 
-<!-- Card 2 -->
-<span style="display:inline-block; width:115px; margin:0 10px;">
-  <div style="border:2.5px solid #16d2ff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/hard-working.png" width="48" style="margin-top:16px;"/>
+<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
+  <div style="border:2.5px solid #16d2ff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/hard-working.png" width="48"/>
   </div>
-  <div style="margin-top:10px; font-weight:bold; color:#16d2ff;">RAG Systems</div>
-  <div style="font-size:13px; color:#aaa;">Prod, Multi-agent</div>
+  <div style="margin-top:12px;font-weight:bold;color:#16d2ff;">RAG Systems</div>
+  <div style="font-size:13px;color:#aaa;">Prod, Multi-agent</div>
 </span>
 
-<!-- Card 3 -->
-<span style="display:inline-block; width:115px; margin:0 10px;">
-  <div style="border:2.5px solid #fffa7f; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/microphone.png" width="48" style="margin-top:16px;"/>
+<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
+  <div style="border:2.5px solid #fffa7f;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/microphone.png" width="48"/>
   </div>
-  <div style="margin-top:10px; font-weight:bold; color:#fffa7f;">Speech AI</div>
-  <div style="font-size:13px; color:#aaa;">Real-time, S2S</div>
+  <div style="margin-top:12px;font-weight:bold;color:#fffa7f;">Speech AI</div>
+  <div style="font-size:13px;color:#aaa;">Real-time, S2S</div>
 </span>
 
-<!-- Card 4 -->
-<span style="display:inline-block; width:115px; margin:0 10px;">
-  <div style="border:2.5px solid #ff79c6; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48" style="margin-top:16px;"/>
+<br/>
+
+<!-- Second Row: 2 Cards -->
+<span style="display:inline-block;width:160px;margin:18px 40px 0 40px;vertical-align:top;">
+  <div style="border:2.5px solid #ff79c6;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48"/>
   </div>
-  <div style="margin-top:10px; font-weight:bold; color:#ff79c6;">RL Agents</div>
-  <div style="font-size:13px; color:#aaa;">Autonomous, Train</div>
+  <div style="margin-top:12px;font-weight:bold;color:#ff79c6;">RL Agents</div>
+  <div style="font-size:13px;color:#aaa;">Autonomous, Train</div>
 </span>
 
-<!-- Card 5 -->
-<span style="display:inline-block; width:115px; margin:0 10px;">
-  <div style="border:2.5px solid #b28dff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/wrench.png" width="48" style="margin-top:16px;"/>
+<span style="display:inline-block;width:160px;margin:18px 40px 0 40px;vertical-align:top;">
+  <div style="border:2.5px solid #b28dff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/wrench.png" width="48"/>
   </div>
-  <div style="margin-top:10px; font-weight:bold; color:#b28dff;">Quantization</div>
-  <div style="font-size:13px; color:#aaa;">LLaMA, Compression</div>
+  <div style="margin-top:12px;font-weight:bold;color:#b28dff;">Quantization</div>
+  <div style="font-size:13px;color:#aaa;">LLaMA, Compression</div>
 </span>
 
 </div>
