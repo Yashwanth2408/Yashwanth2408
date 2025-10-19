@@ -1,3 +1,72 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=red&style=flat-square)](https://github.com/Yashwanth2408)
+[![GitHub Followers](https://img.shields.io/github/followers/Yashwanth2408?label=Followers&style=social)](https://github.com/Yashwanth2408)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthbalaji)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthbalaji.2408@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **CURRENT FOCUS**
+
+</div>
+
+🧠 Research: Graph Neural Networks for Multi-Domain Fraud Detection
+💬 Building: Production-Grade RAG Systems with Multi-Agent Retrieval
+🎙️ Developing: Real-Time Speech-to-Speech AI Pipelines (Multilingual)
+🤖 Training: Reinforcement Learning Agents for Autonomous Systems
+📊 Exploring: Quantized LLaMA Models & Model Compression
+🔬 Publishing: Applied ML Research in NLP, Speech AI, and Graph ML
+
+
+---
+
+<div align="center">
+
+## 🚀 **ABOUT ME**
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+AI/ML Engineer specializing in production-ready intelligent systems
+
+Building real-world applications in NLP, GenAI, Speech, and Graph ML
+
+Passionate about research, innovation, and solving hard problems
+
+@ Core Expertise:
+→ Natural Language Processing & Generative AI
+→ Speech Recognition, Synthesis & Voice Cloning
+→ Graph Neural Networks & Fraud Detection
+→ Computer Vision & Medical Imaging
+→ Reinforcement Learning & Autonomous Systems
+→ MLOps & Production Deployment
+
+🏆 Achievements:
+▸ HackRx 5.0 Top-5 Finalist (National Level)
+▸ Voltaics Go-Kart Competition Runner-Up
+▸ Published Multiple Production ML Systems
+▸ Active AI/ML Researcher
+
+🎓 Education:
+▸ B.Tech in Engineering
+▸ Focus: Machine Learning, Deep Learning, AI Systems
+
+🔥 Fun Fact:
+▸ Passionate about robotics, finance, geopolitics & building AI that matters
+▸ Love building things from scratch and optimizing for performance
+
 
 ---
 
