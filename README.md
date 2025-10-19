@@ -29,31 +29,17 @@
 
 <div align="center">
 
-<!-- Pixel badge strip for core focus -->
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/brain.png" width="28"/>  
-  <b style="color:#ee6aff;">Graph Neural Networks:</b> Fraud Detection, Supplier ML
-</span>
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/hard-working.png" width="28"/>  
-  <b style="color:#16d2ff;">Production RAG Systems:</b> Multi-agent Retrieval
-</span>
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/microphone.png" width="28"/>  
-  <b style="color:#fffa7f;">Speech AI:</b> Real-time Speech-to-Speech
-</span>
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/robot-2.png" width="28"/>  
-  <b style="color:#ff79c6;">RL Agents:</b> Autonomous Systems • Training
-</span>
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/wrench.png" width="28"/>  
-  <b style="color:#b28dff;">Quantization:</b> LLaMA Compression
-</span>
-<span style="display:inline-block; margin:10px 18px;">
-  <img src="https://img.icons8.com/fluency/48/book.png" width="28"/>
-  <b style="color:#16d2ff;">Applied Research:</b> NLP, Graph ML
-</span>
+## 🎯 Current Focus
+
+<p>
+  🧠 <span style="color:#ee6aff;"><b>Graph Neural Networks</b></span>: Fraud Detection, Supplier ML<br>
+  🛠️ <span style="color:#16d2ff;"><b>Production RAG Systems</b></span>: Multi-agent Retrieval<br>
+  🎤 <span style="color:#fffa7f;"><b>Speech AI</b></span>: Real-time Speech-to-Speech<br>
+  🤖 <span style="color:#ff79c6;"><b>RL Agents</b></span>: Autonomous Systems • Training<br>
+  🛠️ <span style="color:#b28dff;"><b>Quantization</b></span>: LLaMA Compression<br>
+  📚 <span style="color:#16d2ff;"><b>Applied Research</b></span>: NLP, Graph ML
+</p>
+
 </div>
 
 ---
