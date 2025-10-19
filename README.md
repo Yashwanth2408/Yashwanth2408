@@ -109,48 +109,20 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-## 📊 Github Stats & Activity
+##  Github Stats & Activity
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/fluency/32/star.png"/><br/>
-      <b style="color:#ee6aff;">Stars</b><br/>
-      <span style="font-size:22px;color:#ddd;">0</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/ios-glyphs/32/github.png"/><br/>
-      <b style="color:#b28dff;">Commits</b><br/>
-      <span style="font-size:22px;color:#ddd;">67</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/sf-black-filled/32/git.png"/><br/>
-      <b style="color:#16d2ff;">PRs</b><br/>
-      <span style="font-size:22px;color:#ddd;">0</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/fluency/32/info.png"/><br/>
-      <b style="color:#ff79c6;">Issues</b><br/>
-      <span style="font-size:22px;color:#ddd;">0</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/fluency/32/add-user-group-woman-man.png"/><br/>
-      <b style="color:#4f287b;">Contributions</b><br/>
-      <span style="font-size:22px;color:#ddd;">95</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/32/medal-second-place.png"/><br/>
-      <b style="color:#fffa7f;">Longest Streak</b><br/>
-      <span style="font-size:22px;color:#ddd;">3</span>
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/fluency/32/bookmark-ribbon.png"/><br/>
-      <b style="color:#16d2ff;">Grade</b><br/>
-      <span style="font-size:22px;color:#ee6aff;">B-</span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=6272a4&fire=bd93f9&currStreakLabel=fff&sideLabels=bd93f9&currStreakNum=fff&sideNums=fff&dates=6272a4" width="48%" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=vogue" width="98%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=darkhub&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
+</p>
 
 ---
 
