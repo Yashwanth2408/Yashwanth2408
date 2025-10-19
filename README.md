@@ -1,18 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:8B0000&height=120&section=header"/>
+<!-- Pixelated red wave banner and pixel text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&text=YASH&fontSize=60&fontColor=ff0000&fontAlignY=35&desc=&descAlign=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=red&style=flat-square)](https://github.com/Yashwanth2408)
-[![GitHub Followers](https://img.shields.io/github/followers/Yashwanth2408?label=Followers&style=social)](https://github.com/Yashwanth2408)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthbalaji)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthbalaji.2408@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG;%3E+Production-Grade+ML+Solutions;%3E+Pixel+Art+Innovation)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 🎯 CURRENT FOCUS
