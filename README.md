@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Red/white wave background and pixel-branding (Press Start 2P, YASH) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&text=YASH&fontSize=58&fontColor=ff0000&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&fontSize=58&fontColor=ff0000&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=950&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG;%3E+Production-Grade+ML+Solutions;%3E+Pixel+Art+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=950&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 CURRENT FOCUS
+##  CURRENT FOCUS
 
 <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> **Research:** Graph Neural Networks for Multi-Domain Fraud Detection  
 <img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> **Building:** Production-Grade RAG Systems with Multi-Agent Retrieval  
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 ABOUT ME
+##  ABOUT ME
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -221,7 +221,7 @@ Passionate about research, innovation, and solving hard problems.
 
 ---
 
-## 🏆 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
 <div align="center">
 <table>
