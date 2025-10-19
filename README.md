@@ -65,7 +65,7 @@
 
 ---
 
-##  About Me
+##  About Me :)
 
 I craft end-to-end intelligent systems, specializing in NLP, Speech, and Graph ML.  
 Passionate about building real-world production ML systems with a research mindset and pixel-perfect diligence.
