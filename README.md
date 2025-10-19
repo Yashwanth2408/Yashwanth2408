@@ -1,15 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0e17,50:3d348b,100:7678ed&height=150&section=header&text=YASHWANTH%20BALAJI&fontSize=50&fontColor=f7b801&animation=twinkling&fontAlignY=35"/>
+<!-- 🚀 PIXELATED HEADER with Name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22223b,50:4a4e69,100:9a8c98&height=140&section=header&text=%20%5B%20YASH%20%5D%20&fontSize=60&fontColor=ffd700&fontAlignY=35&desc=Crafting+Intelligent+Systems+with+Pixel+Art+Precision&descSize=24&descAlign=62"/>
+<!-- Capsule Render with gold pixel font, smoky gradient, pixel art vibe -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=1000&height=80&lines=%3E+AI+%2F+ML+ENGINEER;%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;%3E+GRAPH+NEURAL+NETWORKS+%7C+RAG;%3E+SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=PROFILE+VIEWS&color=f7b801&style=for-the-badge&labelColor=0f0e17" />
-  <img src="https://img.shields.io/github/followers/Yashwanth2408?label=FOLLOWERS&style=for-the-badge&color=f7b801&labelColor=0f0e17" />
-</p>
+<!-- Pixel/Typer animation with your name as main identity -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=920&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG;%3E+Production-Grade+ML+Solutions;%3E+Pixel+Art+Innovation)](https://git.io/typing-svg)
+<!-- Gold color, retro typewriter arcade, identity always "YASH" -->
 
 <p align="center">
   <a href="https://linkedin.com/in/yashwanthbalaji">
