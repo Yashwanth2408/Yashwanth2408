@@ -27,50 +27,50 @@
 ---
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="center" style="width:100%;">
 
-<!-- First Row: 3 Cards -->
-<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
-  <div style="border:2.5px solid #ee6aff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+<!-- Row 1: Three Cards -->
+<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
+  <div style="border:2.5px solid #ee6aff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
     <img src="https://img.icons8.com/fluency/48/brain.png" width="48"/>
   </div>
-  <div style="margin-top:12px;font-weight:bold;color:#ee6aff;">GNNs</div>
-  <div style="font-size:13px;color:#aaa;">Fraud, Graph ML</div>
+  <div style="margin-top:10px;font-weight:bold;color:#ee6aff;">GNNs</div>
+  <div style="font-size:13px;color:#ced4e7;">Fraud, Graph ML</div>
 </span>
 
-<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
-  <div style="border:2.5px solid #16d2ff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
+  <div style="border:2.5px solid #16d2ff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
     <img src="https://img.icons8.com/fluency/48/hard-working.png" width="48"/>
   </div>
-  <div style="margin-top:12px;font-weight:bold;color:#16d2ff;">RAG Systems</div>
-  <div style="font-size:13px;color:#aaa;">Prod, Multi-agent</div>
+  <div style="margin-top:10px;font-weight:bold;color:#16d2ff;">RAG Systems</div>
+  <div style="font-size:13px;color:#ced4e7;">Prod, Multi-agent</div>
 </span>
 
-<span style="display:inline-block;width:160px;margin:18px 12px;vertical-align:top;">
-  <div style="border:2.5px solid #fffa7f;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
+  <div style="border:2.5px solid #fffa7f;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
     <img src="https://img.icons8.com/fluency/48/microphone.png" width="48"/>
   </div>
-  <div style="margin-top:12px;font-weight:bold;color:#fffa7f;">Speech AI</div>
-  <div style="font-size:13px;color:#aaa;">Real-time, S2S</div>
+  <div style="margin-top:10px;font-weight:bold;color:#fffa7f;">Speech AI</div>
+  <div style="font-size:13px;color:#ced4e7;">Real-time, S2S</div>
 </span>
 
-<br/>
+<br/><br/>
 
-<!-- Second Row: 2 Cards -->
-<span style="display:inline-block;width:160px;margin:18px 40px 0 40px;vertical-align:top;">
-  <div style="border:2.5px solid #ff79c6;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+<!-- Row 2: Two Cards (extra margin for centering) -->
+<span style="display:inline-block;width:156px;margin:12px 60px;vertical-align:top;">
+  <div style="border:2.5px solid #ff79c6;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
     <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48"/>
   </div>
-  <div style="margin-top:12px;font-weight:bold;color:#ff79c6;">RL Agents</div>
-  <div style="font-size:13px;color:#aaa;">Autonomous, Train</div>
+  <div style="margin-top:10px;font-weight:bold;color:#ff79c6;">RL Agents</div>
+  <div style="font-size:13px;color:#ced4e7;">Autonomous, Train</div>
 </span>
 
-<span style="display:inline-block;width:160px;margin:18px 40px 0 40px;vertical-align:top;">
-  <div style="border:2.5px solid #b28dff;border-radius:20px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
+<span style="display:inline-block;width:156px;margin:12px 60px;vertical-align:top;">
+  <div style="border:2.5px solid #b28dff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
     <img src="https://img.icons8.com/fluency/48/wrench.png" width="48"/>
   </div>
-  <div style="margin-top:12px;font-weight:bold;color:#b28dff;">Quantization</div>
-  <div style="font-size:13px;color:#aaa;">LLaMA, Compression</div>
+  <div style="margin-top:10px;font-weight:bold;color:#b28dff;">Quantization</div>
+  <div style="font-size:13px;color:#ced4e7;">LLaMA, Compression</div>
 </span>
 
 </div>
