@@ -9,7 +9,7 @@
 
 <!-- Pixel-art style glowing profile picture -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:20px;box-shadow: 0 0 30px #9a70ff; margin-top:15px;">
-
+<b></b>
 <!-- Social badges in purple gradient -->
 <p align="center">
   <a href="https://linkedin.com/in/yashwanthbalaji">
@@ -27,7 +27,6 @@
   <a href="https://dev.to/yash2408">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9331fd&style=flat-square" />
 </p>
 
 
