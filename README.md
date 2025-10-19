@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -16,10 +16,10 @@
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">CURRENT FOCUS</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">CURRENT FOCUS</h2>
 </div>
 
-<div align="left">
+<div align="left" style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 15px; line-height: 1.8;">
 
 <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> <strong>Research:</strong> Graph Neural Networks for Multi-Domain Fraud Detection
 
@@ -38,12 +38,12 @@
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">ABOUT ME</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">ABOUT ME</h2>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px; line-height: 1.7;">
+<p style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 16px; line-height: 1.8;">
 
 <strong>AI/ML Engineer</strong> specializing in production-ready intelligent systems
 
@@ -55,9 +55,9 @@ Passionate about research, innovation, and solving hard problems
 
 <br/>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Core Expertise:</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Core Expertise:</h3>
 
-<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
 <li>Natural Language Processing & Generative AI</li>
 <li>Speech Recognition, Synthesis & Voice Cloning</li>
 <li>Graph Neural Networks & Fraud Detection</li>
@@ -68,9 +68,9 @@ Passionate about research, innovation, and solving hard problems
 
 <br/>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:</h3>
 
-<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
 <li>HackRx 5.0 Top-5 Finalist (National Level)</li>
 <li>Voltaics Go-Kart Competition Runner-Up</li>
 <li>Published Multiple Production ML Systems</li>
@@ -79,18 +79,18 @@ Passionate about research, innovation, and solving hard problems
 
 <br/>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:</h3>
 
-<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
 <li>B.Tech in Engineering</li>
 <li>Focus: Machine Learning, Deep Learning, AI Systems</li>
 </ul>
 
 <br/>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:</h3>
 
-<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
 <li>Passionate about robotics, finance, geopolitics & building AI that matters</li>
 <li>Love building things from scratch and optimizing for performance</li>
 </ul>
@@ -100,10 +100,10 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">TECH ARSENAL</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">TECH ARSENAL</h2>
 </div>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Programming Languages</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Programming Languages</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
@@ -115,7 +115,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Machine Learning & Deep Learning</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Machine Learning & Deep Learning</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -128,7 +128,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/XGBoost-EA4E4E?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Natural Language Processing & Generative AI</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Natural Language Processing & Generative AI</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -142,7 +142,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/NLTK-2A7B3E?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Speech & Audio AI</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Speech & Audio AI</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -153,7 +153,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Vector Databases & Retrieval</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Vector Databases & Retrieval</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
@@ -163,7 +163,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Data Science & Visualization</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Data Science & Visualization</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -174,7 +174,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Web Frameworks & APIs</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Web Frameworks & APIs</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -184,7 +184,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">DevOps & Deployment</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">DevOps & Deployment</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -196,7 +196,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Development Tools</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Development Tools</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -206,7 +206,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Databases</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Databases</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -216,7 +216,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Specialized Tools & Libraries</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Specialized Tools & Libraries</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NetworkX-667eea?style=for-the-badge" />
@@ -230,7 +230,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">GITHUB STATISTICS</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">GITHUB STATISTICS</h2>
 </div>
 
 <p align="center">
@@ -254,7 +254,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">FEATURED PROJECTS</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">FEATURED PROJECTS</h2>
 </div>
 
 <div align="center">
@@ -297,7 +297,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">CONTRIBUTION SNAKE</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">CONTRIBUTION SNAKE</h2>
 </div>
 
 <picture>
@@ -309,7 +309,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">RANDOM DEV QUOTE</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">RANDOM DEV QUOTE</h2>
 </div>
 
 <div align="center">
@@ -321,7 +321,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">LET'S CONNECT</h2>
+<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">LET'S CONNECT</h2>
 </div>
 
 <p align="center">
@@ -341,13 +341,13 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center" style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;">
+<div align="center" style="font-family: 'Poppins', 'Montserrat', sans-serif;">
 
-<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-style: italic; font-weight: 400;">"Building the future, one neural network at a time"</h3>
+<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-style: italic; font-weight: 400;">"Building the future, one neural network at a time"</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<p style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 15px;">
+<p style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 15px;">
 <strong>Open to collaborations, internships, and full-time opportunities | Let's build something amazing together!</strong>
 </p>
 
