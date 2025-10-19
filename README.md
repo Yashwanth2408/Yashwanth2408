@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Red/white wave background and pixel-branding (Press Start 2P, YASH) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&fontSize=58&fontColor=ff0000&fontAlignY=40" />
+<!-- Header: red/white pixel wave, pixel typing effect with "YASH" -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ff0000,100:8B0000&height=120&section=header&text=YASH&fontSize=58&fontColor=ff0000&fontAlignY=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=950&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Breakthrough+Intelligent+Systems;%3E+Deep+Learning+%7C+NLP+%7C+Speech+AI;%3E+Graph+Neural+Networks+%7C+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=950&height=60&lines=%3E+YASH+%3A+AI+%2F+ML+ENGINEER;%3E+Building+Pixel-Perfect+AI;%3E+Deep+Learning+NLP+Speech+GNN;%3E+Ship+Production+ML+at+Scale)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -17,57 +17,58 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 ---
 
-##  CURRENT FOCUS
+## 🎯 CURRENT FOCUS
 
-<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> **Research:** Graph Neural Networks for Multi-Domain Fraud Detection  
-<img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> **Building:** Production-Grade RAG Systems with Multi-Agent Retrieval  
-<img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> **Developing:** Real-Time Speech-to-Speech AI Pipelines (Multilingual)  
-<img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> **Training:** Reinforcement Learning Agents for Autonomous Systems  
-<img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> **Exploring:** Quantized LLaMA Models & Model Compression  
-<img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> **Publishing:** Applied ML Research in NLP, Speech AI, and Graph ML  
+<table>
+<tr>
+<td width="60%">
+  
+- <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> GNNs for fraud
+- <img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> RAG AI pipelines
+- <img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> Real-time Speech2Speech
+- <img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> RL for autonomy
+- <img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> Quantized LLaMA
+- <img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> ML/NLP/Speech publications
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://user-images.githubusercontent.com/81708630/270035199-5077f240-0e28-46f5-8823-2b8814110b33.png" width="200" alt="pixel office" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  ABOUT ME
+## 🚀 ABOUT ME
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<table>
+<tr>
+<td width="58%">
+  
+AI/ML engineer blending code, research & pixel art.  
+- Specialize in NLP, Speech, GNNs, MLOps  
+- Hackathon finalist; built & shipped prod ML  
+- Obsessed with smart systems, clean code & tech + creativity
 
-**AI/ML Engineer** specializing in production-ready intelligent systems.  
-Building real-world applications in **NLP**, **GenAI**, **Speech**, and **Graph ML**.  
-Passionate about research, innovation, and solving hard problems.
+</td>
+<td width="39%" align="center">
 
-### Core Expertise:
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" alt="Code Pixel Art"/>
+<br>
+<b>Built at VIT • Open for collab!</b>
 
-- Natural Language Processing & Generative AI
-- Speech Recognition, Synthesis & Voice Cloning
-- Graph Neural Networks & Fraud Detection
-- Computer Vision & Medical Imaging
-- Reinforcement Learning & Autonomous Systems
-- MLOps & Production Deployment
+</td>
+</tr>
+</table>
 
-### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:
+---
 
-- HackRx 6.0 & 5.0 Top-5 Finalist (National Level)
-- Voltaics Hackathon (Havoultz, VITC) Runner-Up
-- Published Multiple Production ML Systems
-- Active AI/ML Researcher
-
-### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:
-
-- B.Tech in Engineering
-- Focus: Machine Learning, Deep Learning, AI Systems
-
-### <img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:
-
-- Passionate about innovations, technology, finance, geopolitics & building AI that matters.
-- Love building things from scratch and optimizing for performance.
-
-<br clear="right"/>
 
 ---
 
