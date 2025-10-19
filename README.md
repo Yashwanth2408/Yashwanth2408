@@ -29,41 +29,39 @@
 
 
 ---
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
 
-<!-- Row 1 -->
-<img src="https://img.icons8.com/fluency/48/brain.png" width="38"/>  
-<b style="color:#ee6aff;">GNNs</b>  
-<span style="font-size:14px;color:#ced4e7;">Fraud, Graph ML</span>
+<!-- Focus Card Row -->
+<p>
+  <img src="https://img.icons8.com/fluency/48/brain.png" width="38"/>
+  <b style="color:#ee6aff;">GNNs</b>
+  <span style="font-size:14px;color:#ced4e7;">Fraud, Graph ML</span>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/48/hard-working.png" width="38"/>
+  <b style="color:#16d2ff;">RAG Systems</b>
+  <span style="font-size:14px;color:#ced4e7;">Prod, Multi-agent</span>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://img.icons8.com/fluency/48/hard-working.png" width="38"/>  
-<b style="color:#16d2ff;">RAG Systems</b>  
-<span style="font-size:14px;color:#ced4e7;">Prod, Multi-agent</span>
+  <img src="https://img.icons8.com/fluency/48/microphone.png" width="38"/>
+  <b style="color:#fffa7f;">Speech AI</b>
+  <span style="font-size:14px;color:#ced4e7;">Real-time, S2S</span>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+<p>
+  <img src="https://img.icons8.com/fluency/48/robot-2.png" width="38"/>
+  <b style="color:#ff79c6;">RL Agents</b>
+  <span style="font-size:14px;color:#ced4e7;">Autonomous, Train</span>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp;
-
-<img src="https://img.icons8.com/fluency/48/microphone.png" width="38"/>  
-<b style="color:#fffa7f;">Speech AI</b>  
-<span style="font-size:14px;color:#ced4e7;">Real-time, S2S</span>
-
-<br/><br/>
-
-<!-- Row 2 -->
-<img src="https://img.icons8.com/fluency/48/robot-2.png" width="38"/>  
-<b style="color:#ff79c6;">RL Agents</b>  
-<span style="font-size:14px;color:#ced4e7;">Autonomous, Train</span>
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-
-<img src="https://img.icons8.com/fluency/48/wrench.png" width="38"/>  
-<b style="color:#b28dff;">Quantization</b>  
-<span style="font-size:14px;color:#ced4e7;">LLaMA, Compression</span>
-
+  <img src="https://img.icons8.com/fluency/48/wrench.png" width="38"/>
+  <b style="color:#b28dff;">Quantization</b>
+  <span style="font-size:14px;color:#ced4e7;">LLaMA, Compression</span>
+</p>
 </div>
+
 
 ---
 
