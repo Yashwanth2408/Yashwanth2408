@@ -52,8 +52,8 @@ Passionate about research, innovation, and solving hard problems
 
 ### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:
 
-- HackRx 5.0 Top-5 Finalist (National Level)
-- Voltaics Go-Kart Competition Runner-Up
+- HackRx 6.0 & 5.0 Top-5 Finalist (National Level)
+- Voltaics Hackathon (Havoultz,VITC) Runner-Up
 - Published Multiple Production ML Systems
 - Active AI/ML Researcher
 
@@ -64,7 +64,7 @@ Passionate about research, innovation, and solving hard problems
 
 ### <img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:
 
-- Passionate about robotics, finance, geopolitics & building AI that matters
+- Passionate about innovations, technology, finance, geopolitics & building AI that matters
 - Love building things from scratch and optimizing for performance
 
 <br clear="right"/>
