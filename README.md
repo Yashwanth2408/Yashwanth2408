@@ -24,8 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9b7eff&style=for-the-badge" />
 </p>
 
----
-## 🎯 Current Focus
 
 <div align="center">
 
