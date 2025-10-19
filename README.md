@@ -83,7 +83,10 @@ Passionate about building real-world production ML systems with a research minds
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,fastapi,flask,docker,kubernetes,git,github,cpp,linux,vscode,pycharm,postgres,mysql,mongodb,redis,sqlite,aws,gcp,azure,jupyter,html,css,js,scikitlearn,opencv,selenium,nginx,bash" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,fastapi,flask,docker,kubernetes,git,github,cpp,linux,vscode,pycharm,postgres" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,aws,gcp,azure,jupyter,html,css,js,scikitlearn,opencv,selenium,nginx,bash" />
 </p>
 
 ---
