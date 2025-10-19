@@ -3,7 +3,7 @@
 <!-- Animated Gradient Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0a0a23,25:430c5a,50:6d2aff,75:430c5a,100:0a0a23&fontSize=64&fontColor=ee6aff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1200&duration=4000&color=FF79CC&center=true&width=1200&lines=Hey%2C+I%27m+Yash;AI+%2F+ML+Engineer;NLP+%7C+Speech+AI+%7C+GNNs+%7C+RAG;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1200&duration=6000&color=FF79CC&center=true&width=1200&lines=Hey%2C+I%27m+Yash;AI+%2F+ML+Engineer;NLP+%7C+Speech+AI+%7C+GNNs+%7C+RAG;)](https://git.io/typing-svg)
 
 
 
@@ -26,26 +26,37 @@
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://img.icons8.com/color/48/target.png" width="26" style="vertical-align:middle;"/> Current Focus
 
-<table width="100%" style="margin-top:0px;">
-<tr style="background:#3b2e68; color:#c1afff; font-weight:bold;">
-<td style="padding: 10px; text-align:center; width:16%;">🧠 Research</td>
-<td style="padding: 10px;">GNNs for Fraud Detection</td>
-<td style="padding: 10px; text-align:center; width:16%;">🛠️ Building</td>
-<td style="padding: 10px;">Production RAG Systems</td>
-<td style="padding: 10px; text-align:center; width:16%;">🎤 Developing</td>
-<td style="padding: 10px;">Real-time Speech AI</td>
-</tr>
-<tr style="background:#624edd; color:#ddd4ff;">
-<td style="padding: 10px; text-align:center;">🤖 Training</td>
-<td style="padding: 10px;">Reinforcement Learning Agents</td>
-<td style="padding: 10px; text-align:center;">🔧 Exploring</td>
-<td style="padding: 10px;">Quantized LLaMA & Compression</td>
-<td style="padding: 10px; text-align:center;">📚 Publishing</td>
-<td style="padding: 10px;">Applied NLP & Graph ML research</td>
-</tr>
-</table>
+<div align="center">
+
+<!-- Pixel-style animated tag ribbon -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1500&color=EE6AFF&center=true&vCenter=true&width=950&lines=Research:+GNNs+for+Fraud+Detection;Building:+Production+RAG+Systems;Developing:+Real-time+Speech+AI;Training:+RL+Agents;Exploring:+Quantized+LLaMA+%26+Model+Compression;Publishing:+Applied+NLP+%26+Graph+ML" />
+
+<!-- Horizontal badges for instant visual, with modern color pop -->
+<br>
+
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/brain.png" width="24"/> <b>GNNs (Fraud, Graph ML)</b>
+</span>
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/hard-working.png" width="24"/> <b>Production RAG</b>
+</span>
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/microphone.png" width="24"/> <b>Speech AI</b>
+</span>
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/robot-2.png" width="24"/> <b>RL Agents</b>
+</span>
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/wrench.png" width="24"/> <b>Quantization+Compression</b>
+</span>
+<span style="display:inline-block; margin:6px;">
+  <img src="https://img.icons8.com/fluency/40/book.png" width="24"/> <b>Graph & NLP Research</b>
+</span>
+
+</div>
+
 
 ---
 
