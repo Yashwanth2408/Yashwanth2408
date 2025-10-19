@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=667eea&style=flat-square)](https://github.com/Yashwanth2408)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=red&style=flat-square)](https://github.com/Yashwanth2408)
 [![GitHub Followers](https://img.shields.io/github/followers/Yashwanth2408?label=Followers&style=social)](https://github.com/Yashwanth2408)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthbalaji)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthbalaji.2408@gmail.com)
@@ -15,95 +15,65 @@
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">CURRENT FOCUS</h2>
-</div>
+## 🎯 CURRENT FOCUS
 
-<div align="left" style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 15px; line-height: 1.8;">
+<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> **Research:** Graph Neural Networks for Multi-Domain Fraud Detection
 
-<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> <strong>Research:</strong> Graph Neural Networks for Multi-Domain Fraud Detection
+<img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> **Building:** Production-Grade RAG Systems with Multi-Agent Retrieval
 
-<img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> <strong>Building:</strong> Production-Grade RAG Systems with Multi-Agent Retrieval
+<img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> **Developing:** Real-Time Speech-to-Speech AI Pipelines (Multilingual)
 
-<img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> <strong>Developing:</strong> Real-Time Speech-to-Speech AI Pipelines (Multilingual)
+<img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> **Training:** Reinforcement Learning Agents for Autonomous Systems
 
-<img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> <strong>Training:</strong> Reinforcement Learning Agents for Autonomous Systems
+<img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> **Exploring:** Quantized LLaMA Models & Model Compression
 
-<img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> <strong>Exploring:</strong> Quantized LLaMA Models & Model Compression
-
-<img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> <strong>Publishing:</strong> Applied ML Research in NLP, Speech AI, and Graph ML
-
-</div>
+<img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> **Publishing:** Applied ML Research in NLP, Speech AI, and Graph ML
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">ABOUT ME</h2>
-</div>
+## 🚀 ABOUT ME
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 16px; line-height: 1.8;">
+**AI/ML Engineer** specializing in production-ready intelligent systems
 
-<strong>AI/ML Engineer</strong> specializing in production-ready intelligent systems
-
-Building real-world applications in <strong>NLP</strong>, <strong>GenAI</strong>, <strong>Speech</strong>, and <strong>Graph ML</strong>
+Building real-world applications in **NLP**, **GenAI**, **Speech**, and **Graph ML**
 
 Passionate about research, innovation, and solving hard problems
 
-</p>
+### Core Expertise:
 
-<br/>
+- Natural Language Processing & Generative AI
+- Speech Recognition, Synthesis & Voice Cloning
+- Graph Neural Networks & Fraud Detection
+- Computer Vision & Medical Imaging
+- Reinforcement Learning & Autonomous Systems
+- MLOps & Production Deployment
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Core Expertise:</h3>
+### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:
 
-<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
-<li>Natural Language Processing & Generative AI</li>
-<li>Speech Recognition, Synthesis & Voice Cloning</li>
-<li>Graph Neural Networks & Fraud Detection</li>
-<li>Computer Vision & Medical Imaging</li>
-<li>Reinforcement Learning & Autonomous Systems</li>
-<li>MLOps & Production Deployment</li>
-</ul>
+- HackRx 5.0 Top-5 Finalist (National Level)
+- Voltaics Go-Kart Competition Runner-Up
+- Published Multiple Production ML Systems
+- Active AI/ML Researcher
 
-<br/>
+### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:</h3>
+- B.Tech in Engineering
+- Focus: Machine Learning, Deep Learning, AI Systems
 
-<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
-<li>HackRx 5.0 Top-5 Finalist (National Level)</li>
-<li>Voltaics Go-Kart Competition Runner-Up</li>
-<li>Published Multiple Production ML Systems</li>
-<li>Active AI/ML Researcher</li>
-</ul>
+### <img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:
 
-<br/>
-
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:</h3>
-
-<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
-<li>B.Tech in Engineering</li>
-<li>Focus: Machine Learning, Deep Learning, AI Systems</li>
-</ul>
-
-<br/>
-
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:</h3>
-
-<ul style="font-family: 'Poppins', 'Montserrat', sans-serif; line-height: 1.8;">
-<li>Passionate about robotics, finance, geopolitics & building AI that matters</li>
-<li>Love building things from scratch and optimizing for performance</li>
-</ul>
+- Passionate about robotics, finance, geopolitics & building AI that matters
+- Love building things from scratch and optimizing for performance
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">TECH ARSENAL</h2>
-</div>
+## 💻 TECH ARSENAL
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Programming Languages</h3>
+### Programming Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
@@ -115,7 +85,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Machine Learning & Deep Learning</h3>
+### Machine Learning & Deep Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -123,12 +93,12 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Stable_Baselines3-0078D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-EA4E4E?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Natural Language Processing & Generative AI</h3>
+### Natural Language Processing & Generative AI
 
 <p align="center">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -137,23 +107,23 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/SentenceTransformer-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SentenceTransformer-FF0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
 <img src="https://img.shields.io/badge/NLTK-2A7B3E?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Speech & Audio AI</h3>
+### Speech & Audio AI
 
 <p align="center">
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Coqui_TTS-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wav2Vec2-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wav2Vec2-FF0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pydub-306998?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Vector Databases & Retrieval</h3>
+### Vector Databases & Retrieval
 
 <p align="center">
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
@@ -163,7 +133,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Data Science & Visualization</h3>
+### Data Science & Visualization
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -174,7 +144,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Web Frameworks & APIs</h3>
+### Web Frameworks & APIs
 
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -184,7 +154,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">DevOps & Deployment</h3>
+### DevOps & Deployment
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -196,7 +166,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Development Tools</h3>
+### Development Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -206,7 +176,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Databases</h3>
+### Databases
 
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -216,10 +186,10 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 600;">Specialized Tools & Libraries</h3>
+### Specialized Tools & Libraries
 
 <p align="center">
-<img src="https://img.shields.io/badge/NetworkX-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NetworkX-FF0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/Gym-0081A5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
@@ -229,33 +199,29 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">GITHUB STATISTICS</h2>
-</div>
+## 📊 GITHUB STATISTICS
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=FFFFFF&sideLabels=764ba2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=8B0000&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=8B0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" />
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth2408&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashwanth2408&theme=tokyonight&utcOffset=5.5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth2408&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&langs_count=10" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashwanth2408&theme=radical&utcOffset=5.5" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=tokyo-night&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=github-compact&bg_color=0D1117&color=FF0000&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="98%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="98%" />
 </p>
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">FEATURED PROJECTS</h2>
-</div>
+## 🏆 FEATURED PROJECTS
 
 <div align="center">
 <table>
@@ -263,14 +229,14 @@ Passionate about research, innovation, and solving hard problems
 <td width="50%" align="center">
 
 <a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=8B0000&text_color=C9D1D9" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 <a href="https://github.com/Yashwanth2408/Speech-to-Speech-Streaming-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Speech-to-Speech-Streaming-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Speech-to-Speech-Streaming-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=8B0000&text_color=C9D1D9" />
 </a>
 
 </td>
@@ -279,14 +245,14 @@ Passionate about research, innovation, and solving hard problems
 <td width="50%" align="center">
 
 <a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=8B0000&text_color=C9D1D9" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 <a href="https://github.com/Yashwanth2408/Smart_Document_Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Smart_Document_Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Smart_Document_Assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=8B0000&text_color=C9D1D9" />
 </a>
 
 </td>
@@ -296,9 +262,7 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">CONTRIBUTION SNAKE</h2>
-</div>
+## 🐍 CONTRIBUTION SNAKE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/output/github-contribution-grid-snake-dark.svg">
@@ -308,21 +272,17 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">RANDOM DEV QUOTE</h2>
-</div>
+## 💭 RANDOM DEV QUOTE
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-<div align="center">
-<h2 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-weight: 700; letter-spacing: -0.5px;">LET'S CONNECT</h2>
-</div>
+## 📫 LET'S CONNECT
 
 <p align="center">
 <a href="mailto:yashwanthbalaji.2408@gmail.com">
@@ -341,16 +301,14 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center" style="font-family: 'Poppins', 'Montserrat', sans-serif;">
+<div align="center">
 
-<h3 style="font-family: 'Poppins', 'Montserrat', sans-serif; font-style: italic; font-weight: 400;">"Building the future, one neural network at a time"</h3>
+### 💡 *"Building the future, one neural network at a time"*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<p style="font-family: 'Poppins', 'Montserrat', sans-serif; font-size: 15px;">
-<strong>Open to collaborations, internships, and full-time opportunities | Let's build something amazing together!</strong>
-</p>
+**⭐ Open to collaborations, internships, and full-time opportunities | Let's build something amazing together! ⭐**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:8B0000&height=120&section=footer"/>
