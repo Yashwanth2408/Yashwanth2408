@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=YASHWANTH+BALAJI;AI+%2F+ML+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%7C+NLP+%7C+SPEECH+AI;GRAPH+NEURAL+NETWORKS+%7C+RAG;SHIPPING+PRODUCTION+ML+AT+SCALE)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -16,88 +16,94 @@
 ---
 
 <div align="center">
-
-## 🎯 CURRENT FOCUS
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">CURRENT FOCUS</h2>
 </div>
 
 <div align="left">
 
-<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> **Research:** Graph Neural Networks for Multi-Domain Fraud Detection
+<img src="https://img.icons8.com/fluency/48/000000/brain.png" width="20"/> <strong>Research:</strong> Graph Neural Networks for Multi-Domain Fraud Detection
 
-<img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> **Building:** Production-Grade RAG Systems with Multi-Agent Retrieval
+<img src="https://img.icons8.com/fluency/48/000000/chat.png" width="20"/> <strong>Building:</strong> Production-Grade RAG Systems with Multi-Agent Retrieval
 
-<img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> **Developing:** Real-Time Speech-to-Speech AI Pipelines (Multilingual)
+<img src="https://img.icons8.com/fluency/48/000000/microphone.png" width="20"/> <strong>Developing:</strong> Real-Time Speech-to-Speech AI Pipelines (Multilingual)
 
-<img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> **Training:** Reinforcement Learning Agents for Autonomous Systems
+<img src="https://img.icons8.com/fluency/48/000000/robot-2.png" width="20"/> <strong>Training:</strong> Reinforcement Learning Agents for Autonomous Systems
 
-<img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> **Exploring:** Quantized LLaMA Models & Model Compression
+<img src="https://img.icons8.com/fluency/48/000000/bar-chart.png" width="20"/> <strong>Exploring:</strong> Quantized LLaMA Models & Model Compression
 
-<img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> **Publishing:** Applied ML Research in NLP, Speech AI, and Graph ML
+<img src="https://img.icons8.com/fluency/48/000000/book.png" width="20"/> <strong>Publishing:</strong> Applied ML Research in NLP, Speech AI, and Graph ML
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🚀 ABOUT ME
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">ABOUT ME</h2>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**AI/ML Engineer** specializing in production-ready intelligent systems
+<p style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px; line-height: 1.7;">
 
-Building real-world applications in **NLP**, **GenAI**, **Speech**, and **Graph ML**
+<strong>AI/ML Engineer</strong> specializing in production-ready intelligent systems
+
+Building real-world applications in <strong>NLP</strong>, <strong>GenAI</strong>, <strong>Speech</strong>, and <strong>Graph ML</strong>
 
 Passionate about research, innovation, and solving hard problems
 
-<br/>
-
-### Core Expertise:
-
-- Natural Language Processing & Generative AI
-- Speech Recognition, Synthesis & Voice Cloning
-- Graph Neural Networks & Fraud Detection
-- Computer Vision & Medical Imaging
-- Reinforcement Learning & Autonomous Systems
-- MLOps & Production Deployment
+</p>
 
 <br/>
 
-### <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Core Expertise:</h3>
 
-- HackRx 5.0 Top-5 Finalist (National Level)
-- Voltaics Go-Kart Competition Runner-Up
-- Published Multiple Production ML Systems
-- Active AI/ML Researcher
-
-<br/>
-
-### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:
-
-- B.Tech in Engineering
-- Focus: Machine Learning, Deep Learning, AI Systems
+<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<li>Natural Language Processing & Generative AI</li>
+<li>Speech Recognition, Synthesis & Voice Cloning</li>
+<li>Graph Neural Networks & Fraud Detection</li>
+<li>Computer Vision & Medical Imaging</li>
+<li>Reinforcement Learning & Autonomous Systems</li>
+<li>MLOps & Production Deployment</li>
+</ul>
 
 <br/>
 
-### <img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="25"/> Achievements:</h3>
 
-- Passionate about robotics, finance, geopolitics & building AI that matters
-- Love building things from scratch and optimizing for performance
+<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<li>HackRx 5.0 Top-5 Finalist (National Level)</li>
+<li>Voltaics Go-Kart Competition Runner-Up</li>
+<li>Published Multiple Production ML Systems</li>
+<li>Active AI/ML Researcher</li>
+</ul>
+
+<br/>
+
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="25"/> Education:</h3>
+
+<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<li>B.Tech in Engineering</li>
+<li>Focus: Machine Learning, Deep Learning, AI Systems</li>
+</ul>
+
+<br/>
+
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;"><img src="https://img.icons8.com/fluency/48/000000/fire-element.png" width="25"/> Fun Fact:</h3>
+
+<ul style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.8;">
+<li>Passionate about robotics, finance, geopolitics & building AI that matters</li>
+<li>Love building things from scratch and optimizing for performance</li>
+</ul>
 
 <br clear="right"/>
 
 ---
 
 <div align="center">
-
-## 💻 TECH ARSENAL
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">TECH ARSENAL</h2>
 </div>
 
-### Programming Languages
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Programming Languages</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
@@ -109,7 +115,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Machine Learning & Deep Learning
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Machine Learning & Deep Learning</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -122,7 +128,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/XGBoost-EA4E4E?style=for-the-badge" />
 </p>
 
-### Natural Language Processing & Generative AI
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Natural Language Processing & Generative AI</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -136,7 +142,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/NLTK-2A7B3E?style=for-the-badge" />
 </p>
 
-### Speech & Audio AI
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Speech & Audio AI</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -147,7 +153,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge" />
 </p>
 
-### Vector Databases & Retrieval
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Vector Databases & Retrieval</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
@@ -157,7 +163,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 </p>
 
-### Data Science & Visualization
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Data Science & Visualization</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -168,7 +174,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
-### Web Frameworks & APIs
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Web Frameworks & APIs</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -178,7 +184,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### DevOps & Deployment
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">DevOps & Deployment</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -190,7 +196,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### Development Tools
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Development Tools</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -200,7 +206,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### Databases
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Databases</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -210,7 +216,7 @@ Passionate about research, innovation, and solving hard problems
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Specialized Tools & Libraries
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600;">Specialized Tools & Libraries</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NetworkX-667eea?style=for-the-badge" />
@@ -224,9 +230,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-
-## 📊 GITHUB STATISTICS
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">GITHUB STATISTICS</h2>
 </div>
 
 <p align="center">
@@ -250,9 +254,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-
-## 🏆 FEATURED PROJECTS
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">FEATURED PROJECTS</h2>
 </div>
 
 <div align="center">
@@ -295,9 +297,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">CONTRIBUTION SNAKE</h2>
 </div>
 
 <picture>
@@ -309,9 +309,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-
-## 💭 RANDOM DEV QUOTE
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">RANDOM DEV QUOTE</h2>
 </div>
 
 <div align="center">
@@ -323,9 +321,7 @@ Passionate about research, innovation, and solving hard problems
 ---
 
 <div align="center">
-
-## 📫 LET'S CONNECT
-
+<h2 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 700; letter-spacing: -0.5px;">LET'S CONNECT</h2>
 </div>
 
 <p align="center">
@@ -345,13 +341,15 @@ Passionate about research, innovation, and solving hard problems
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;">
 
-### 💡 *"Building the future, one neural network at a time"*
+<h3 style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-style: italic; font-weight: 400;">"Building the future, one neural network at a time"</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**⭐ Open to collaborations, internships, and full-time opportunities | Let's build something amazing together! ⭐**
+<p style="font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 15px;">
+<strong>Open to collaborations, internships, and full-time opportunities | Let's build something amazing together!</strong>
+</p>
 
 </div>
 
