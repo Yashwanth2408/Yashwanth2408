@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🚀 PIXELATED HEADER with Name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22223b,50:4a4e69,100:9a8c98&height=140&section=header&text=%20%5B%20YASH%20%5D%20&fontSize=60&fontColor=ffd700&fontAlignY=35&desc=Crafting+Intelligent+Systems+with+Pixel+Art+Precision&descSize=24&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22223b,50:4a4e69,100:9a8c98&height=140&section=header&descAlign=62"/>
 <!-- Capsule Render with gold pixel font, smoky gradient, pixel art vibe -->
 
 <!-- Pixel/Typer animation with your name as main identity -->
