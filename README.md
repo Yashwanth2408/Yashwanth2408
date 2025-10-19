@@ -112,12 +112,12 @@ Passionate about building real-world production ML systems with a research minds
 ##  Github Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=6272a4&fire=bd93f9&currStreakLabel=fff&sideLabels=bd93f9&currStreakNum=fff&sideNums=fff&dates=6272a4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=midnight-purple&hide_border=true&background=282a36&stroke=bd93f9&ring=6272a4&fire=bd93f9&currStreakLabel=fff&sideLabels=bd93f9&currStreakNum=fff&sideNums=fff&dates=6272a4" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=darkhub&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=midnight-purple&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
 </p>
 
 ---
@@ -127,18 +127,18 @@ Passionate about building real-world production ML systems with a research minds
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/Speech-to-Speech-Streaming-Project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Speech-to-Speech-Streaming-Project&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/Yashwanth2408/Speech-to-Speech-Streaming-Project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Speech-to-Speech-Streaming-Project&theme=midnight-purple&hide_border=true" /></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/Smart_Document_Assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Smart_Document_Assistant&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/Yashwanth2408/Smart_Document_Assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Smart_Document_Assistant&theme=midnight-purple&hide_border=true" /></a>
 </td>
 </tr>
 </table>
