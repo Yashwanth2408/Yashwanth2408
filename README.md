@@ -3,8 +3,8 @@
 <!-- Animated Gradient Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0a0a23,25:430c5a,50:6d2aff,75:430c5a,100:0a0a23&fontSize=64&fontColor=ee6aff" />
 
-<!-- Typing animation: AI/ML Engineer + key skills -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1500&duration=4000&center=true&color=ee6aff&Hey%2C+I%27m+Yash;AI+%2F+ML+Engineer;NLP+%7C+Speech+AI+%7C+GNNs+%2F+RAG;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1500&duration=4000&center=true&color=ee6aff&lines=Hey%2C+I'm+Yash;AI+%2F+ML+Engineer;NLP+%7C+Speech+AI+%7C+GNNs+%2F+RAG;)](https://git.io/typing-svg)
+
 
 <!-- Pixel-art style glowing profile picture -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:20px;box-shadow: 0 0 30px #9a70ff; margin-top:15px;">
