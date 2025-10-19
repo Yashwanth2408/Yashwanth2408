@@ -111,19 +111,46 @@ Passionate about building real-world production ML systems with a research minds
 
 ## 📊 Github Stats & Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stars-0-9331fd?style=for-the-badge&logo=star&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Commits-67-6e3dfd?style=for-the-badge&logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PRs-0-23272f?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Issues-0-23272f?style=for-the-badge&logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Contributions-95-4f287b?style=for-the-badge&logo=addthis&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Longest_Streak-3-9331fd?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grade-B--6e3dfd?style=for-the-badge" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/fluency/32/star.png"/><br/>
+      <b style="color:#ee6aff;">Stars</b><br/>
+      <span style="font-size:22px;color:#ddd;">0</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/ios-glyphs/32/github.png"/><br/>
+      <b style="color:#b28dff;">Commits</b><br/>
+      <span style="font-size:22px;color:#ddd;">67</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/sf-black-filled/32/git.png"/><br/>
+      <b style="color:#16d2ff;">PRs</b><br/>
+      <span style="font-size:22px;color:#ddd;">0</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/fluency/32/info.png"/><br/>
+      <b style="color:#ff79c6;">Issues</b><br/>
+      <span style="font-size:22px;color:#ddd;">0</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/fluency/32/add-user-group-woman-man.png"/><br/>
+      <b style="color:#4f287b;">Contributions</b><br/>
+      <span style="font-size:22px;color:#ddd;">95</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/32/medal-second-place.png"/><br/>
+      <b style="color:#fffa7f;">Longest Streak</b><br/>
+      <span style="font-size:22px;color:#ddd;">3</span>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/fluency/32/bookmark-ribbon.png"/><br/>
+      <b style="color:#16d2ff;">Grade</b><br/>
+      <span style="font-size:22px;color:#ee6aff;">B-</span>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=react-dark&color=9331fd&area=true" width="99%" />
-</p>
 
 ---
 
