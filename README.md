@@ -154,17 +154,6 @@ Passionate about building real-world production ML systems with a research minds
 
 ---
 
-
-## 📫 Let's Connect
-
-<p align="center">
-<a href="mailto:yashwanthbalaji.2408@gmail.com"><img src="https://img.shields.io/badge/Gmail-bd93f9?style=for-the-badge&logo=gmail&logoColor=282a36" /></a>
-<a href="https://linkedin.com/in/yashwanthbalaji"><img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=282a36" /></a>
-<a href="https://github.com/Yashwanth2408"><img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=bd93f9" /></a>
-</p>
-
----
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="850" />
 <br>
