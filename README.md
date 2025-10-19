@@ -54,7 +54,6 @@
   <div style="font-size:13px;color:#ced4e7;">Real-time, S2S</div>
 </span>
 
-<br/><br/>
 
 <!-- Row 2: Two Cards (extra margin for centering) -->
 <span style="display:inline-block;width:156px;margin:12px 60px;vertical-align:top;">
