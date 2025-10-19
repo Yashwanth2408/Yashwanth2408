@@ -24,19 +24,55 @@
   <img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9b7eff&style=for-the-badge" />
 </p>
 
-
-<div align="center">
-
+---
 ## 🎯 Current Focus
 
-<p>
-  🧠 <span style="color:#ee6aff;"><b>Graph Neural Networks</b></span>: Fraud Detection, Supplier ML<br>
-  🛠️ <span style="color:#16d2ff;"><b>Production RAG Systems</b></span>: Multi-agent Retrieval<br>
-  🎤 <span style="color:#fffa7f;"><b>Speech AI</b></span>: Real-time Speech-to-Speech<br>
-  🤖 <span style="color:#ff79c6;"><b>RL Agents</b></span>: Autonomous Systems • Training<br>
-  🛠️ <span style="color:#b28dff;"><b>Quantization</b></span>: LLaMA Compression<br>
-  📚 <span style="color:#16d2ff;"><b>Applied Research</b></span>: NLP, Graph ML
-</p>
+<div align="center" style="margin-top:14px;">
+
+<!-- Card 1 -->
+<span style="display:inline-block; width:115px; margin:0 10px;">
+  <div style="border:2.5px solid #ee6aff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/brain.png" width="48" style="margin-top:16px;"/>
+  </div>
+  <div style="margin-top:10px; font-weight:bold; color:#ee6aff;">GNNs</div>
+  <div style="font-size:13px; color:#aaa;">Fraud, Graph ML</div>
+</span>
+
+<!-- Card 2 -->
+<span style="display:inline-block; width:115px; margin:0 10px;">
+  <div style="border:2.5px solid #16d2ff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/hard-working.png" width="48" style="margin-top:16px;"/>
+  </div>
+  <div style="margin-top:10px; font-weight:bold; color:#16d2ff;">RAG Systems</div>
+  <div style="font-size:13px; color:#aaa;">Prod, Multi-agent</div>
+</span>
+
+<!-- Card 3 -->
+<span style="display:inline-block; width:115px; margin:0 10px;">
+  <div style="border:2.5px solid #fffa7f; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/microphone.png" width="48" style="margin-top:16px;"/>
+  </div>
+  <div style="margin-top:10px; font-weight:bold; color:#fffa7f;">Speech AI</div>
+  <div style="font-size:13px; color:#aaa;">Real-time, S2S</div>
+</span>
+
+<!-- Card 4 -->
+<span style="display:inline-block; width:115px; margin:0 10px;">
+  <div style="border:2.5px solid #ff79c6; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48" style="margin-top:16px;"/>
+  </div>
+  <div style="margin-top:10px; font-weight:bold; color:#ff79c6;">RL Agents</div>
+  <div style="font-size:13px; color:#aaa;">Autonomous, Train</div>
+</span>
+
+<!-- Card 5 -->
+<span style="display:inline-block; width:115px; margin:0 10px;">
+  <div style="border:2.5px solid #b28dff; border-radius:24px; width:90px; height:90px; margin:auto; display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/48/wrench.png" width="48" style="margin-top:16px;"/>
+  </div>
+  <div style="margin-top:10px; font-weight:bold; color:#b28dff;">Quantization</div>
+  <div style="font-size:13px; color:#aaa;">LLaMA, Compression</div>
+</span>
 
 </div>
 
