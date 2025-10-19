@@ -117,10 +117,6 @@ Passionate about building real-world production ML systems with a research minds
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth2408&theme=vogue" width="98%" />
-</p>
-
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=darkhub&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
 </p>
 
