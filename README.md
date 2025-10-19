@@ -25,38 +25,36 @@
 </p>
 
 ---
-
-## <img src="https://img.icons8.com/color/48/target.png" width="26" style="vertical-align:middle;"/> Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
-<!-- Pixel-style animated tag ribbon -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1500&color=EE6AFF&center=true&vCenter=true&width=950&lines=Research:+GNNs+for+Fraud+Detection;Building:+Production+RAG+Systems;Developing:+Real-time+Speech+AI;Training:+RL+Agents;Exploring:+Quantized+LLaMA+%26+Model+Compression;Publishing:+Applied+NLP+%26+Graph+ML" />
-
-<!-- Horizontal badges for instant visual, with modern color pop -->
-<br>
-
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/brain.png" width="24"/> <b>GNNs (Fraud, Graph ML)</b>
+<!-- Pixel badge strip for core focus -->
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/brain.png" width="28"/>  
+  <b style="color:#ee6aff;">Graph Neural Networks:</b> Fraud Detection, Supplier ML
 </span>
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/hard-working.png" width="24"/> <b>Production RAG</b>
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/hard-working.png" width="28"/>  
+  <b style="color:#16d2ff;">Production RAG Systems:</b> Multi-agent Retrieval
 </span>
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/microphone.png" width="24"/> <b>Speech AI</b>
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/microphone.png" width="28"/>  
+  <b style="color:#fffa7f;">Speech AI:</b> Real-time Speech-to-Speech
 </span>
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/robot-2.png" width="24"/> <b>RL Agents</b>
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/robot-2.png" width="28"/>  
+  <b style="color:#ff79c6;">RL Agents:</b> Autonomous Systems • Training
 </span>
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/wrench.png" width="24"/> <b>Quantization+Compression</b>
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/wrench.png" width="28"/>  
+  <b style="color:#b28dff;">Quantization:</b> LLaMA Compression
 </span>
-<span style="display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/fluency/40/book.png" width="24"/> <b>Graph & NLP Research</b>
+<span style="display:inline-block; margin:10px 18px;">
+  <img src="https://img.icons8.com/fluency/48/book.png" width="28"/>
+  <b style="color:#16d2ff;">Applied Research:</b> NLP, Graph ML
 </span>
-
 </div>
-
 
 ---
 
