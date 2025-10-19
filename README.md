@@ -29,52 +29,39 @@
 
 
 ---
-##  Current Focus
+## 🎯 Current Focus
 
-<div align="center" style="width:100%;">
+<div align="center">
 
-<!-- Row 1: Three Cards -->
-<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
-  <div style="border:2.5px solid #ee6aff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/brain.png" width="48"/>
-  </div>
-  <div style="margin-top:10px;font-weight:bold;color:#ee6aff;">GNNs</div>
-  <div style="font-size:13px;color:#ced4e7;">Fraud, Graph ML</div>
-</span>
+<!-- Row 1 -->
+<img src="https://img.icons8.com/fluency/48/brain.png" width="38"/>  
+<b style="color:#ee6aff;">GNNs</b>  
+<span style="font-size:14px;color:#ced4e7;">Fraud, Graph ML</span>
 
-<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
-  <div style="border:2.5px solid #16d2ff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/hard-working.png" width="48"/>
-  </div>
-  <div style="margin-top:10px;font-weight:bold;color:#16d2ff;">RAG Systems</div>
-  <div style="font-size:13px;color:#ced4e7;">Prod, Multi-agent</div>
-</span>
+&nbsp; &nbsp; &nbsp; &nbsp;
 
-<span style="display:inline-block;width:156px;margin:12px 14px;vertical-align:top;">
-  <div style="border:2.5px solid #fffa7f;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/microphone.png" width="48"/>
-  </div>
-  <div style="margin-top:10px;font-weight:bold;color:#fffa7f;">Speech AI</div>
-  <div style="font-size:13px;color:#ced4e7;">Real-time, S2S</div>
-</span>
+<img src="https://img.icons8.com/fluency/48/hard-working.png" width="38"/>  
+<b style="color:#16d2ff;">RAG Systems</b>  
+<span style="font-size:14px;color:#ced4e7;">Prod, Multi-agent</span>
 
+&nbsp; &nbsp; &nbsp; &nbsp;
 
-<!-- Row 2: Two Cards (extra margin for centering) -->
-<span style="display:inline-block;width:156px;margin:12px 60px;vertical-align:top;">
-  <div style="border:2.5px solid #ff79c6;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="48"/>
-  </div>
-  <div style="margin-top:10px;font-weight:bold;color:#ff79c6;">RL Agents</div>
-  <div style="font-size:13px;color:#ced4e7;">Autonomous, Train</div>
-</span>
+<img src="https://img.icons8.com/fluency/48/microphone.png" width="38"/>  
+<b style="color:#fffa7f;">Speech AI</b>  
+<span style="font-size:14px;color:#ced4e7;">Real-time, S2S</span>
 
-<span style="display:inline-block;width:156px;margin:12px 60px;vertical-align:top;">
-  <div style="border:2.5px solid #b28dff;border-radius:19px;width:90px;height:90px;margin:auto;display:flex;align-items:center;justify-content:center;">
-    <img src="https://img.icons8.com/fluency/48/wrench.png" width="48"/>
-  </div>
-  <div style="margin-top:10px;font-weight:bold;color:#b28dff;">Quantization</div>
-  <div style="font-size:13px;color:#ced4e7;">LLaMA, Compression</div>
-</span>
+<br/><br/>
+
+<!-- Row 2 -->
+<img src="https://img.icons8.com/fluency/48/robot-2.png" width="38"/>  
+<b style="color:#ff79c6;">RL Agents</b>  
+<span style="font-size:14px;color:#ced4e7;">Autonomous, Train</span>
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://img.icons8.com/fluency/48/wrench.png" width="38"/>  
+<b style="color:#b28dff;">Quantization</b>  
+<span style="font-size:14px;color:#ced4e7;">LLaMA, Compression</span>
 
 </div>
 
