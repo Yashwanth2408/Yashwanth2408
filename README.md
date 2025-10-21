@@ -127,6 +127,9 @@ Passionate about building real-world production ML systems with a research minds
 <table width="100%">
 <tr>
 <td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/IMARA" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=IMARA&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
