@@ -132,6 +132,8 @@ Passionate about building real-world production ML systems with a research minds
 <td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/neurocode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=neurocode&theme=midnight-purple&hide_border=true" /></a>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=midnight-purple&hide_border=true" /></a>
 </td>
@@ -142,6 +144,9 @@ Passionate about building real-world production ML systems with a research minds
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
+<!-- Empty cell for alignment, or add 6th project -->
 </td>
 </tr>
 </table>
