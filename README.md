@@ -130,6 +130,9 @@ Passionate about building real-world production ML systems with a research minds
 <a href="https://github.com/Yashwanth2408/IMARA" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=IMARA&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/neurocode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=neurocode&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
@@ -139,9 +142,6 @@ Passionate about building real-world production ML systems with a research minds
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=midnight-purple&hide_border=true" /></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/Smart_Document_Assistant" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Smart_Document_Assistant&theme=midnight-purple&hide_border=true" /></a>
 </td>
 </tr>
 </table>
