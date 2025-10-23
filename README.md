@@ -159,7 +159,7 @@ Passionate about building real-world production ML systems with a research minds
 ---
 
 <br>
-<b style="color:#ff79c6;">“Building the future, one neural network at a time.”</b>
+<b style="color:#ff79c6;">“making AI less artificial. one epoch at a time.”</b>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a23,80:7f5af0,100:00e1ff"/>
