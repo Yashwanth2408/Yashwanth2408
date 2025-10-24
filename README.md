@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <!-- Animated Gradient Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0a0a23,25:430c5a,50:6d2aff,75:430c5a,100:0a0a23&fontSize=64&fontColor=ee6aff" />
 
