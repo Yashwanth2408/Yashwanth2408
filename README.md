@@ -46,7 +46,7 @@ class YashwanthBalaji:
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/Yashwanth2408/Yashwanth2408/assets/yash_ascii_v2.jpg" width="340" style="border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/Yashwanth2408/assets/yash_ascii_v2.jpg" width="340" style="border-radius:12px;" />
 
 <br/>
 
