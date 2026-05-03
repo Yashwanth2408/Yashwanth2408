@@ -1,304 +1,166 @@
-<!-- ============================================================
-     ██╗      █████╗ ████████╗███████╗███╗   ██╗████████╗
-     ██║     ██╔══██╗╚══██╔══╝██╔════╝████╗  ██║╚══██╔══╝
-     ██║     ███████║   ██║   █████╗  ██╔██╗ ██║   ██║
-     ██║     ██╔══██║   ██║   ██╔══╝  ██║╚██╗██║   ██║
-     ███████╗██║  ██║   ██║   ███████╗██║ ╚████║   ██║
-     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝
+<div align="center">
 
-     ███████╗██╗      ██████╗ ██╗    ██╗
-     ██╔════╝██║     ██╔═══██╗██║    ██║
-     █████╗  ██║     ██║   ██║██║ █╗ ██║
-     ██╔══╝  ██║     ██║   ██║██║███╗██║
-     ██║     ███████╗╚██████╔╝╚███╔███╔╝
-     ╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
-============================================================ -->
+
+<!-- Animated Gradient Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0a0a23,25:430c5a,50:6d2aff,75:430c5a,100:0a0a23&fontSize=64&fontColor=ee6aff" />
+
+![Typing SVG](https://git.io/typing-svg)
+
+
+
+<!-- Pixel-art style glowing profile picture -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="border-radius:20px;box-shadow: 0 0 30px #9a70ff; margin-top:15px;">
+<b></b>
+
+<!-- Social badges in purple gradient -->
+<p>
+<a href="mailto:yashwanthbalaji.2408@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-9a70ff?&style=for-the-badge&logo=gmail&logoColor=fff" />
+</a>
+<a href="https://linkedin.com/in/yashwanthbalaji">
+<img src="https://img.shields.io/badge/LinkedIn-6e3dfd?&style=for-the-badge&logo=linkedin&logoColor=fff" />
+</a>
+<a href="https://github.com/Yashwanth2408">
+<img src="https://img.shields.io/badge/Github-4d1eff?&style=for-the-badge&logo=github&logoColor=fff" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Yashwanth2408&label=Profile+Views&color=9b7eff&style=for-the-badge" />
+</p>
+
+
+---
+## Current Focus
 
 <div align="center">
 
-```
-◆ ─────────────────────────────────────────────── ◆
-```
+<!-- Focus Card Row -->
+<p>
+<img src="https://img.icons8.com/fluency/48/brain.png" width="38"/>
+<b style="color:#ee6aff;">GNNs</b>
+<span style="font-size:14px;color:#ced4e7;">Fraud, Graph ML</span>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-```
- ██╗      █████╗ ████████╗███████╗███╗   ██╗████████╗███████╗██╗      ██████╗ ██╗    ██╗
- ██║     ██╔══██╗╚══██╔══╝██╔════╝████╗  ██║╚══██╔══╝██╔════╝██║     ██╔═══██╗██║    ██║
- ██║     ███████║   ██║   █████╗  ██╔██╗ ██║   ██║   █████╗  ██║     ██║   ██║██║ █╗ ██║
- ██║     ██╔══██║   ██║   ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ██║     ██║   ██║██║███╗██║
- ███████╗██║  ██║   ██║   ███████╗██║ ╚████║   ██║   ██║     ███████╗╚██████╔╝╚███╔███╔╝
- ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
-```
+<img src="https://img.icons8.com/fluency/48/hard-working.png" width="38"/>
+<b style="color:#16d2ff;">RAG Systems</b>
+<span style="font-size:14px;color:#ced4e7;">Prod, Multi-agent</span>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-```
-◆ ─────────────────────────────────────────────── ◆
-```
+<img src="https://img.icons8.com/fluency/48/microphone.png" width="38"/>
+<b style="color:#fffa7f;">Speech AI</b>
+<span style="font-size:14px;color:#ced4e7;">Real-time, S2S</span>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+<p>
+<img src="https://img.icons8.com/fluency/48/robot-2.png" width="38"/>
+<b style="color:#ff79c6;">RL Agents</b>
+<span style="font-size:14px;color:#ced4e7;">Autonomous, Train</span>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-### `[ INTELLIGENCE INFRASTRUCTURE FOR THE AGENTIC ERA ]`
-
-<br/>
-
-![Static Badge](https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00FF00?style=for-the-badge&labelColor=000000&color=CDFF00)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/STACK-NEXT_GEN_AI-CDFF00?style=for-the-badge&labelColor=000000)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/MODE-STEALTH-FF0055?style=for-the-badge&labelColor=000000)
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   "We don't build tools. We build the substrate                      │
-│    that intelligent systems run on."                                 │
-│                                                                      │
-│                                          — LatentFlow, 2025          │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
+<img src="https://img.icons8.com/fluency/48/wrench.png" width="38"/>
+<b style="color:#b28dff;">Quantization</b>
+<span style="font-size:14px;color:#ced4e7;">LLaMA, Compression</span>
+</p>
 </div>
 
----
-
-## ▸ WHAT IS THIS
-
-> LatentFlow is **not** another AI wrapper.
-> LatentFlow is **not** another dashboard.
-> LatentFlow is the **operating layer** between human intent and machine intelligence.
-
-We sit at the intersection of **token economics**, **agent orchestration**, and **latent space navigation** — building the infrastructure that makes AI systems production-ready, observable, and economically sustainable.
-
-```
-HUMAN INTENT  ──→  [ LATENTFLOW ]  ──→  AGENT OUTPUT
-                         │
-                    ┌────┴────┐
-                    │  ROUTE  │  ← smart model selection
-                    │ OBSERVE │  ← full trace visibility
-                    │ CONTROL │  ← cost & quality gates
-                    │ LEARN   │  ← feedback loops
-                    └─────────┘
-```
 
 ---
 
-## ▸ THE SIGNAL
+## About Me :)
 
-```
-                            THE AI DEPLOYMENT GAP
-                            ─────────────────────
+I craft end-to-end intelligent systems, specializing in NLP, Speech, and Graph ML.
+Passionate about building real-world production ML systems with a research mindset and pixel-perfect diligence.
 
-  RESEARCH LAB              LATENTFLOW              PRODUCTION
-  ──────────                ──────────              ──────────
-  "It works in              "It works at            "It works at
-   notebook"       ──→       scale"        ──→       profit"
-
-  Prototype                 Platform                 Revenue
-  Chaos                     Control                  Growth
-  Opaque                    Observable               Understood
-```
-
-> 90% of AI projects **fail between prototype and production**.
-> LatentFlow closes that gap.
+<p style="margin-left:0;">
+<b>Highlights:</b>
+- National Hackathon Finalist (HackRx 5.0 & 6.0)
+- Voltaics Hackathon Runner-up
+- Published ML solutions running in production
+- MLOps and model deployment expert
+</p>
 
 ---
 
-## ▸ ARCHITECTURE
+## Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-333366?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/-PyTorch-2D2630?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/-TensorFlow-22202D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/-FastAPI-00A884?style=for-the-badge&logo=fastapi&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=fff" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
+<img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff" />
+</p>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                      LATENTFLOW CORE                              ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║   ┌─────────────┐   ┌─────────────┐   ┌─────────────────────┐   ║
-║   │   ROUTER    │   │  OBSERVER   │   │    TOKEN ECONOMY     │   ║
-║   │             │   │             │   │                      │   ║
-║   │ Model       │   │ Full trace  │   │ Cost attribution     │   ║
-║   │ selection   │   │ visibility  │   │ Budget enforcement   │   ║
-║   │ Load        │   │ Latency     │   │ Quality scoring      │   ║
-║   │ balancing   │   │ monitoring  │   │ ROI calculation      │   ║
-║   └──────┬──────┘   └──────┬──────┘   └──────────┬──────────┘   ║
-║          │                 │                      │              ║
-║          └─────────────────┼──────────────────────┘              ║
-║                            │                                     ║
-║                    ┌───────▼────────┐                            ║
-║                    │   FLOW ENGINE  │                            ║
-║                    │                │                            ║
-║                    │  Orchestrates  │                            ║
-║                    │  everything    │                            ║
-║                    └────────────────┘                            ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ▸ PRODUCT SURFACE
-
-| MODULE | WHAT IT DOES | STATUS |
-|--------|-------------|--------|
-| `latent.route` | Intelligent model routing based on task complexity + cost | `◉ LIVE` |
-| `latent.observe` | Real-time trace, span, and token usage observability | `◉ LIVE` |
-| `latent.economy` | Token budget management, cost attribution, ROI tracking | `◎ BETA` |
-| `latent.agents` | Multi-agent orchestration with handoff protocols | `◌ Q2` |
-| `latent.eval` | Automated quality evaluation pipelines | `◌ Q3` |
-| `latent.memory` | Persistent context management across sessions | `◌ Q3` |
 
 ---
 
-## ▸ THE EXPERIENCE WE'RE BUILDING
+## Github Stats & Activity
 
-```
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                 │
-│   WHEN YOU OPEN LATENTFLOW.IO                                   │
-│                                                                 │
-│   01  ──  PRELOADER                                             │
-│           Circle + percentage counter → page reveals           │
-│                                                                 │
-│   02  ──  HERO                                                  │
-│           3D liquid blob + character-split text animation       │
-│           Stat counters: 350+ / 99.9% / <80ms / $0             │
-│                                                                 │
-│   03  ──  BIRD MASCOT                                           │
-│           3D asset. Eyes track your cursor. Always watching.    │
-│                                                                 │
-│   04  ──  FEATURE SCROLL                                        │
-│           Pinned text. 3D objects rotate with scroll.           │
-│                                                                 │
-│   05  ──  DRAG CAROUSEL                                         │
-│           Horizontal cards. Physics-based drag. Name popups.    │
-│                                                                 │
-│   06  ──  PARTNER GRID                                          │
-│           Hover → neon square expands → logo inverts           │
-│                                                                 │
-│   07  ──  WARP FOOTER                                           │
-│           3D mesh floor that ripples like water                 │
-│                                                                 │
-╰─────────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth2408&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth2408&theme=midnight-purple&hide_border=true&background=282a36&stroke=bd93f9&ring=6272a4&fire=bd93f9&currStreakLabel=fff&sideLabels=bd93f9&currStreakNum=fff&sideNums=fff&dates=6272a4" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth2408&theme=midnight-purple&no-frame=true&margin-w=5&row=1&column=7" width="98%" />
+</p>
 
 ---
 
-## ▸ DESIGN SYSTEM
+## Featured Projects
 
-```
-╔══════════════════════════════════════════════╗
-║           VISUAL LANGUAGE                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  BACKGROUND    ████  #000000  Pure Black     ║
-║  PRIMARY       ████  #CDFF00  Electric Lime  ║
-║  TEXT          ████  #FFFFFF  White          ║
-║  SUBTLE        ████  #1A1A1A  Dark Gray      ║
-║                                              ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  DISPLAY FONT   →   Aeonik / Monument        ║
-║  BODY FONT      →   Inter / Söhne            ║
-║  MONO FONT      →   JetBrains Mono           ║
-║                                              ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  MOTION         →   GSAP + ScrollTrigger     ║
-║  SMOOTH SCROLL  →   Lenis                    ║
-║  3D ENGINE      →   Three.js + WebGL         ║
-║  PHYSICS        →   Expo.out / Power4.out    ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## ▸ INTERACTIVE SIGNATURE MOMENTS
-
-```
-  ① MAGNETIC CURSOR
-    └── Small white dot · Lag-follows mouse · Expands on hover
-
-  ② BIRD MASCOT (3D)
-    └── Eyes follow cursor across entire viewport
-        Used as interactive guide + brand mascot
-
-  ③ SOUND DESIGN
-    └── Micro-sounds on nav hover · Page transition tones
-        Subtle. Intentional. Never annoying.
-
-  ④ DRAG CAROUSEL
-    └── Extreme smooth drag physics
-        Slide name appears on cursor transition
-
-  ⑤ PARTNER HOVER
-    └── Neon lime square expands from center
-        Logo flips to black on hover
-
-  ⑥ ELEMENT REACTIVITY
-    └── DOM elements across the page react to cursor proximity
-        Push · Pull · Orbit · Snap
-```
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/IMARA" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=IMARA&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/neurocode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=neurocode&theme=midnight-purple&hide_border=true" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/RX-Assistant-RAG-NLP_chatbot" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=RX-Assistant-RAG-NLP_chatbot&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/Speech-to-Speech-Streaming-Project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Speech-to-Speech-Streaming-Project&theme=midnight-purple&hide_border=true" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/Yashwanth2408/Skin-Cancer-Detector" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=Skin-Cancer-Detector&theme=midnight-purple&hide_border=true" /></a>
+</td>
+<td align="center" width="50%">
+<!-- Empty cell for alignment, or add 6th project -->
+</td>
+</tr>
+</table>
 
 ---
 
-## ▸ STACK
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
 
-```
-  FRONTEND          ANIMATION          3D / GL            INFRA
-  ────────          ─────────          ───────            ─────
-  Next.js 14        GSAP 3.x           Three.js           Vercel
-  TypeScript        ScrollTrigger      WebGL Shaders      Edge Runtime
-  Tailwind CSS      Lenis              Perlin Noise        Cloudflare
-  Framer Motion     Splitting.js       GLSL               Upstash
-```
 
 ---
 
-## ▸ NUMBERS THAT MATTER
-
-```
-                  ┌──────────┬──────────┬──────────┬──────────┐
-                  │  350+    │  99.9%   │  < 80ms  │   $0     │
-                  │          │          │          │          │
-                  │ Models   │ Uptime   │ P99      │ Vendor   │
-                  │ Routed   │ SLA      │ Latency  │ Lock-in  │
-                  └──────────┴──────────┴──────────┴──────────┘
-```
-
----
-
-## ▸ PHILOSOPHY
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   We believe the next frontier of software is not written.          │
-│   It is prompted, orchestrated, and evaluated.                      │
-│                                                                     │
-│   LatentFlow exists so that the engineers building                  │
-│   that future have the infrastructure they deserve —                │
-│   observable, economical, and ready for production.                 │
-│                                                                     │
-│   The flow is latent. We make it visible.                           │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```
-◆ ─────────────────────────────────────────────── ◆
-```
-
-### `[ THE FLOW IS LATENT. WE MAKE IT VISIBLE. ]`
-
-```
-◆ ─────────────────────────────────────────────── ◆
-```
-
-![Static Badge](https://img.shields.io/badge/latentflow.io-ENTER_THE_FLOW-CDFF00?style=for-the-badge&labelColor=000000)
-
-<br/>
-
-`© 2025 LatentFlow Inc. — Building the substrate for agentic intelligence.`
-
+<br>
+<b style="color:#ff79c6;">“making AI less artificial. one epoch at a time.”</b>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a23,80:7f5af0,100:00e1ff"/>
