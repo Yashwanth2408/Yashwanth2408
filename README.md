@@ -2,7 +2,7 @@
 <!--         YASHWANTH BALAJI — GITHUB README          -->
 <!-- ████████████████████████████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00001a,30:1a003d,60:2e0057,90:4b0082,100:6600cc&text=YASHWANTH%20BALAJI&fontColor=bf80ff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Founder%20%40%20LatentFlow.ai%20%7C%20Builder%20of%20Real%20Things&descSize=16&descAlignY=65&descFontColor=d4aaff&animation=fadeIn&stroke=7b2fff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00001a,30:1a003d,60:2e0057,90:4b0082,100:6600cc&text=YASH&fontColor=bf80ff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Founder%20%40%20LatentFlow.ai%20%7C%20Builder%20of%20Real%20Things&descSize=16&descAlignY=65&descFontColor=d4aaff&animation=fadeIn&stroke=7b2fff&strokeWidth=2" />
 
 <div align="center">
 
