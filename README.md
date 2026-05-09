@@ -118,7 +118,7 @@ I'm an AI engineer and founder of **LatentFlow.ai**, building intelligent system
 <a href="https://github.com/Yashwanth2408/IMARA" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=IMARA&theme=midnight-purple&hide_border=true" /></a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/Yashwanth2408/neurocode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=neurocode&theme=midnight-purple&hide_border=true" /></a>
+<a href="https://github.com/Yashwanth2408/Neurocode" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth2408&repo=neurocode&theme=midnight-purple&hide_border=true" /></a>
 </td>
 </tr>
 <tr>
