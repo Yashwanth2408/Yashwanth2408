@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-09-25] reflected on code review best practices applied in recent PRs
 - [2026-09-23] noted personal productivity systems that worked well this week
 - [2026-09-23] noted interesting developer tools explored this week
 - [2026-09-22] noted personal productivity systems that worked well this week
