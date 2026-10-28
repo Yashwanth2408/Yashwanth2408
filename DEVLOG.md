@@ -5,6 +5,7 @@ Development notes, research, and planning entries.
 ## Log
 
 - [2026-10-28] planned a research spike on vector databases for a future project
+- [2026-10-28] planned a research spike on vector databases for a future project
 - [2026-10-27] reflected on developer experience improvements worth pursuing
 - [2026-10-27] reflected on developer experience improvements worth pursuing
 - [2026-10-16] reflected on the month's learning: n8n workflows, GitHub Actions, stdlib
