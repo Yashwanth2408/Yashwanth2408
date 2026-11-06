@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-11-06] planned contributing to an open-source Python project this month
 - [2026-10-28] planned a research spike on vector databases for a future project
 - [2026-10-28] planned a research spike on vector databases for a future project
 - [2026-10-27] reflected on developer experience improvements worth pursuing
