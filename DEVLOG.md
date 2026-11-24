@@ -4,6 +4,7 @@ Development notes, research, and planning entries.
 
 ## Log
 
+- [2026-11-24] planned writing a blog post on workflow automation patterns
 - [2026-11-06] planned contributing to an open-source Python project this month
 - [2026-11-06] planned contributing to an open-source Python project this month
 - [2026-10-28] planned a research spike on vector databases for a future project
